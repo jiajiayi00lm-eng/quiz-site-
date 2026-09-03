@@ -1,0 +1,15 @@
+{
+  "name": "ai-quiz-platform",
+  "version": "1.0.0",
+  "description": "测评网站",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.4.5",
+    "uuid": "^10.0.0"
+  }
+}
